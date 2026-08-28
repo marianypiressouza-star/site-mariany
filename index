@@ -1,0 +1,44 @@
+ <!DOCTYPE html>
+ <html lang="en">
+    <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"
+     <title> A Estrutura do html </title>
+     <style>
+        header{
+            background-color;#8330AA;
+            color: #FFFFFF;
+            text-align: center;
+            max-width: 800px;
+            margin:0 auto 
+            padding: 16px;
+            norder: 5px solid #54acff;
+        }
+     main{
+        background-color:#FFFFFF;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 16px;
+        <color:"8330AA";
+     }
+     img{
+        width: 480p;
+        height: 240px;
+     }
+     </style>
+    </head>
+<body>
+<header>
+    <h1>Estrutura do html </h1><h1>
+        <p>Como ele funciona?</p>
+    </header>
+    <main>
+        <img src="iamgem.png" alt="Ilustração divida em duas partes explicando o HTML. Á esquerda, um editor de código com tags essenciais destacadas. Linhas explicativas conectam cada tag ao navegador do lado direito, mostrando como o código se transforma no título da aba e no conteúdo visual da página.">
+        <h1>Olá </h1>
+        <h2>Compartilhando o meu estudo sobre o html e como ele funciona </h2>
+        <p>Por: SEU NOME COMPLETO </p>
+        </main>
+
+
+        </body>
+        </html>
